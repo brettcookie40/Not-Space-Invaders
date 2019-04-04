@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>balloon_pop.wav</file>
+        <file>LastStand.mp3</file>
+        <file>Friend A.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>ship.png</file>
+        <file>lazerBall.png</file>
+        <file>SmallAsteroid.png</file>
+        <file>stars.gif</file>
+        <file>smallShip.png</file>
+        <file>Background.png</file>
+    </qresource>
+</RCC>
